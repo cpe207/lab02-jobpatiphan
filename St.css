@@ -25,6 +25,7 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  box-shadow: 5px 5px 5px rgb(100, 204, 197);
 }
 
 .boarder-s {
